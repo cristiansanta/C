@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619718526 source:c:\users\cristronicos\documents\arduino_course\c-c++\c\13.functionsfunctions\functions\main.c
+	<stdio.h>
+	<stdlib.h>
+

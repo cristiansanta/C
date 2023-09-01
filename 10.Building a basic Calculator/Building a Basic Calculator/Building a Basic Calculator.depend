@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619670236 source:c:\users\cristronicos\documents\arduino_course\c-c++\c\10.building a basic calculator\building a basic calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+

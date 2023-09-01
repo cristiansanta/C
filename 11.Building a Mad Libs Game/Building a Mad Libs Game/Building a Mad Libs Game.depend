@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619710876 source:c:\users\cristronicos\documents\arduino_course\c-c++\c\11.building a mad libs game\building a mad libs game\main.c
+	<stdio.h>
+	<stdlib.h>
+

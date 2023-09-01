@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620107284 source:c:\users\cristronicos\documents\arduino_course\c-c++\c\26.writing files\writing files\main.c
+	<stdio.h>
+	<stdlib.h>
+

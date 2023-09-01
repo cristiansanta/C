@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619648459 source:c:\users\cristronicos\documents\arduino_course\c-c++\c\6.working with numbers\working with numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

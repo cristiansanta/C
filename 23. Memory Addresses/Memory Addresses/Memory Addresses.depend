@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620094275 source:c:\users\cristronicos\documents\arduino_course\c-c++\c\23. memory addresses\memory addresses\main.c
+	<stdio.h>
+	<stdlib.h>
+

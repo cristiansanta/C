@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619715188 source:c:\users\cristronicos\documents\arduino_course\c-c++\c\12.arrays\arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+

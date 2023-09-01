@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619625467 source:c:\users\cristronicos\documents\arduino_course\c-c++\c\2.drawing a shape\drawing a shape\main.c
+	<stdio.h>
+	<stdlib.h>
+

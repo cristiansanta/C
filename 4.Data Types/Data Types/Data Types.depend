@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619647005 source:c:\users\cristronicos\documents\arduino_course\c-c++\c\3.variables\data types\main.c
+	<stdio.h>
+	<stdlib.h>
+
